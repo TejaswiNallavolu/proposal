@@ -1,4 +1,4 @@
-# proposal-
+# proposal
 
 
 # proposal for the Class Remainder App
