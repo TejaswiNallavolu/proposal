@@ -1,10 +1,10 @@
 # Proposal For the Class Remainder
-## Schedule & sprints are set by the GDP semesters (about every 2-weeks = a sprint)
+## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
 ### GDP-1 
 
 #### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
-- In sprint 1 we work with plan and all the basic reqirements gathering. 
+- We work with plan and all the basic reqirements gathering. 
 
 #### Sprint 2  (Start Date: 4th October 2021 - 18th October 2021)
 - Enhancing and modifing the requirements and break them into functional requirements.
