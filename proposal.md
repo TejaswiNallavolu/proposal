@@ -75,3 +75,6 @@
 - Bootstrap
 
 - ### ___Mock-up screens of the [ClassReminder](https://github.com/TejaswiNallavolu/1A-ClassReminder) App using HTML, CSS, Bootstrap for presentation purpose.___
+
+
+**[References](https://angular.io/guide/forms)**
