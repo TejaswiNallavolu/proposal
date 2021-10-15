@@ -41,18 +41,11 @@
  - Deployment of the application, and production fixes.
 
 ### BUDGET
-
-| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
+* ## GDP1
 | Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP1 Cost |
 | ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
 | Tejaswi Reddy Nallavolu | Front-end Developer | 12             | 40            | 96 hours    | 3840      |
 | Priyanka Thambabathula  | Back-end Developer  | 8              | 40            | 64 hours    | 2560      |
-| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |                
-| Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP2 Cost |
-| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
-| Tejaswi Reddy Nallavolu | Front-end Developer | 8              | 40            | 112 hours   | 4480      |
-| Priyanka Thambabathula  | Back-end Developer  | 12             | 40            | 168 hours   | 6720      |
-| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
 
 ## STACK
 
