@@ -40,16 +40,18 @@
  #### Sprint 11  (Start Date: 30th March 2022 - 15th April 2022)
  - Deployment of the application, and prod fixes.
 
-
+### BUDGET
 - Budget is set by the size of the development team * average expected hours per developer per week
 - Scope of work should be clearly divided into sprint buckets of time
 
-## Backend language + framework (C#/.NET)
+###STACK
 
-## Backend free app host (Heroku or Our Developer's Own Server)
+- **Backend language + framework** C#/.NET
 
-## Data host (Atlas MongoDB and SQL)
+- **Backend free app host** Heroku 
 
-## Front-end page plan (Build with CSHTM Not a Single page)
+- **Data host** Atlas MongoDB and SQL
 
-## Front-end responsive design (Bootstrap)
+- **Front-end page plan** Angular
+
+- **Front-end responsive design** Bootstrap
