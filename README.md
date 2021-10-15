@@ -1,4 +1,4 @@
-# ___CLASS REMINDER APP___
+# CLASS REMINDER APP
 
 
 ## ___proposal for the Class Remainder App___
