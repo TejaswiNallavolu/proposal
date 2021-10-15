@@ -4,7 +4,7 @@
 ## GDP-1 
 
 ### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
-- We work on design plan and all the basic reqirements gathering. 
+- We work on design plan and all the basic requirements gathering. 
 
 ### Sprint 2  (Start Date: 4th October 2021 - 18th October 2021)
 - Enhancing and modifing the requirements and break them into functional requirements.
