@@ -1,35 +1,35 @@
 # Proposal For the Class Remainder
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
-### GDP-1 
+## GDP-1 
 
-#### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
-- We work with plan and all the basic reqirements gathering. 
+### Sprint 1  (Start Date: 20 September 2021 - 4th October 2021)
+- We work on design plan and all the basic reqirements gathering. 
 
-#### Sprint 2  (Start Date: 4th October 2021 - 18th October 2021)
+### Sprint 2  (Start Date: 4th October 2021 - 18th October 2021)
 - Enhancing and modifing the requirements and break them into functional requirements.
 
-#### Sprint 3  (Start Date: 18th October 2021 - 1st november 2021)
+### Sprint 3  (Start Date: 18th October 2021 - 1st november 2021)
 - Building mockups and basic UI pages using Angular.
 
-#### Sprint 4  (Start Date: 1st November 2021 - 15th November 2021)
+### Sprint 4  (Start Date: 1st November 2021 - 15th November 2021)
 - Working with login and Authentication pages.
 
  End of semester GDP-1
 
-### GDP-2 
+## GDP-2 
 
  #### Sprint 5  (Start Date: 12th January 2022 - 26th January 2022)
- - Create Database models and schema
+ - Create Database models and schema.
 
  #### Sprint 6  (Start Date: 26th January 2022 - 9th February 2022)
- - Design web APIs
+ - Designing web APIs
 
  #### Sprint 7  (Start Date: 9th Fabruary 2022 - 23rd February 2022)
- - Create APIs to fetch data from DB
+ - Create APIs to fetch data from Database.
 
  #### Sprint 8  (Start Date: 23rd February 2022 - 9th March 2022)
- - Design all the UI pages based on requirements
+ - Designing all the UI pages based on requirements
 
  #### Sprint 9  (Start Date: 9th March 2022 - 23rd March 2022)
  - Integration with both UI and backend.
@@ -38,11 +38,21 @@
  - Testing and fixing issues
 
  #### Sprint 11  (Start Date: 30th March 2022 - 15th April 2022)
- - Deployment of the application, and prod fixes.
+ - Deployment of the application, and production fixes.
 
 ### BUDGET
-- Budget is set by the size of the development team * average expected hours per developer per week
-- Scope of work should be clearly divided into sprint buckets of time
+
+| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
+| Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP1 Cost |
+| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
+| Tejaswi Reddy Nallavolu | Front-end Developer | 12             | 40            | 96 hours    | 3840      |
+| Priyanka Thambabathula  | Back-end Developer  | 8              | 40            | 64 hours    | 2560      |
+| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |                
+| Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP2 Cost |
+| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
+| Tejaswi Reddy Nallavolu | Front-end Developer | 8              | 40            | 112 hours   | 4480      |
+| Priyanka Thambabathula  | Back-end Developer  | 12             | 40            | 168 hours   | 6720      |
+| ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
 
 ## STACK
 
