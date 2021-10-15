@@ -44,7 +44,7 @@
 - Budget is set by the size of the development team * average expected hours per developer per week
 - Scope of work should be clearly divided into sprint buckets of time
 
-###STACK
+## STACK
 
 - **Backend language + framework** C#/.NET
 
