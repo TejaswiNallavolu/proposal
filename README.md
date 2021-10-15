@@ -10,4 +10,5 @@
 [Link to Request for proposal](https://github.com/harshakurra123/ClassRemainder)
 
 
-## * ___Your schedule :clipboard: , our responsibility!___ *  ### ___Check out our vision in [ClassReminderApp](https://github.com/TejaswiNallavolu/ClassReminderApp)___ 
+## * ___Your schedule :clipboard: , our responsibility!___ *  
+###  ___Check out our vision in [ClassReminderApp](https://github.com/TejaswiNallavolu/ClassReminderApp)___ 
