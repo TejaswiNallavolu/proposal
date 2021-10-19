@@ -7,7 +7,8 @@
 
 
 ## Team members 
-
+-Tejaswi Reddy Nallavolu
+-Priyanka Thambabathula
 
 ## Functionality of the app
 
