@@ -7,8 +7,8 @@
 
 
 ## Team members 
--Tejaswi Reddy Nallavolu
--Priyanka Thambabathula
+ - [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu)
+ - [Priyanka Thambabathula](https://github.com/Priyanka1818)
 
 ## Functionality of the app
 
@@ -53,10 +53,6 @@
 
  ### Sprint 11  (Start Date: 30th March 2022 - 15th April 2022)
  - Deployment of the application, and production fixes.
- 
- ## TEAM MEMBERS
- - [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu)
- -  [Priyanka Thambabathula](https://github.com/Priyanka1818)
 
 ## BUDGET
 * ### GDP1
