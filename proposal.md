@@ -6,7 +6,7 @@
 ## Overview
 - This app contains 2 screens to display the upcoming classes of the student.
 - The upcoming class details with timings and location will be displayed in a rectangular box on the first screen.
-- The first screen has buttons like login, home and upcoming classes which navigates to other pages.
+- The first screen has buttons like login, home and upcoming classes which navigates to other screens.
 - The user can view his/her upcoming class list when he/she clicks on upcoming classes button.
 
 ## Team members 
