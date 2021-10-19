@@ -15,23 +15,23 @@
 
 ## Functionality of the app
 - **Home page**
-   API to get the upcoming class along with room number and time.
-   Button to redirect the list of upcoming classes.
-   Add class button to add new class that shows subject, time, date, room number.
+   - API to get the upcoming class along with room number and time.
+   - Button to redirect the list of upcoming classes.
+   - Add class button to add new class that shows subject, time, date, room number.
 
 - **Login screen**
-    Text fields to enter username and password.
-    Button for authenticating into the application.
-    Forgot password link for reseting the password.
+   - Text fields to enter username and password.
+   - Button for authenticating into the application.
+   - Forgot password link for reseting the password.
 
 - **Upcoming classes list**
-    API to display list of all upcoming classes.
-    Edit button for each class to edit class details.
-    Delete button for each class to delete a class.
+   - API to display list of all upcoming classes.
+   - Edit button for each class to edit class details.
+   - Delete button for each class to delete a class.
 
 - **Header**
-    Your profile link to navigate to user details.
-    Logout button to logout from the application
+   - Your profile link to navigate to user details.
+   - Logout button to logout from the application
 
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
