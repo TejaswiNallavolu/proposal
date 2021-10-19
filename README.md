@@ -12,3 +12,5 @@
 
 ## ___Your schedule :clipboard: , our responsibility!___   
 ###  ___Check out our vision in [ClassReminderApp](https://github.com/TejaswiNallavolu/ClassReminderApp)___ 
+
+## [Link for the screens](https://github.com/TejaswiNallavolu/proposal/tree/main/images)
