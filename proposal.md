@@ -4,7 +4,10 @@
 - Our app is used to display the class schedule along with the time and location. Once the user logs in, He/She will be able to see list of his/her upcominng classes based on thier class schedule. It always shows the reminder of first class in the home page that user has to attend.
 
 ## Overview
-
+- This app contains 2 screens to display the upcoming classes of the student.
+- The upcoming class details with timings and location will be displayed in a rectangular box on the first screen.
+- The first screen has buttons like login, home and upcoming classes which navigates to other pages.
+- The user can view his/her upcoming class list when he/she clicks on upcoming classes button.
 
 ## Team members 
  - [Tejaswi Reddy Nallavolu](https://github.com/TejaswiNallavolu)
