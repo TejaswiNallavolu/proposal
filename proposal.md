@@ -1,7 +1,7 @@
 # Proposal For the Class Remainder
 
 ## Objective of the Class Reminder App
-- Our app is used to display the class schedule along with the time and location. Once the user logs in, He/She will be able to see list of his/her upcominng classes based on thier class schedule. It always shows the reminder of first class in the home page that user has to attend.
+- Our app is used to display the class schedule along with the time and location. Once the user logs in, He/She will be able to see the list of his/her upcoming classes based on their class schedule. It always shows the reminder of first class in the home page that user has to attend.
 
 ## Overview
 - This app contains 2 screens to display the upcoming classes of the student.
