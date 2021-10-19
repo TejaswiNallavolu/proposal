@@ -1,4 +1,17 @@
 # Proposal For the Class Remainder
+
+## Objective of the Class Reminder App
+
+
+## Overview
+
+
+## Team members 
+
+
+## Functionality of the app
+
+
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
 ## GDP-1 
