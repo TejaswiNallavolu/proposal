@@ -14,7 +14,15 @@
  - [Priyanka Thambabathula](https://github.com/Priyanka1818)
 
 ## Functionality of the app
+- **Home page**
 
+- **Login screen**
+
+- **Upcoming classes list**
+
+- **Header**
+
+- **Footer**
 
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
