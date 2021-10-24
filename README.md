@@ -1,7 +1,7 @@
 # CLASS REMINDER APP
 
 
-## ___proposal for the Class Remainder App___
+## ___Proposal for the Class Remainder App___
 
 - We are planning to develop this app using technologies based on c# with DotNet and Angular as front-end.
 - As C# is brought up by Microsoft, it is most popularly used for the development of Windows desktop applications. 
