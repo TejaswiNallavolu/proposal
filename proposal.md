@@ -31,7 +31,10 @@
 
 - **Header**
    - Your profile link to navigate to user details.
-   - Logout button to logout from the application
+   - Logout button to logout from the application.
+   
+## ER-Diagram
+(Click here to view ER-Diagram)[https://github.com/TejaswiNallavolu/proposal/blob/main/erdiagram.png]
 
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
