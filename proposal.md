@@ -78,14 +78,14 @@
 * ### GDP1
 | Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP1 Cost |
 | ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
-| [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) | Front-end Developer | 40             | 40            | 320 hours    | $12800      |
-| [Priyanka Thambabathula](https://github.com/Priyanka1818)  | Back-end Developer  | 30              | 45            | 240 hours    | $10800       |
+| [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) | Front-end Developer | 20             | 40            | 160 hours    | $6400      |
+| [Priyanka Thambabathula](https://github.com/Priyanka1818)  | Back-end Developer  | 15              | 40            | 120 hours    | $4800       |
 
 * ### GDP2
 | Names                   | Roles               | Hours per week | Cost per hour | Total hours | GDP2 Cost |
 | ----------------------- | ------------------- | -------------- | ------------- | ----------- | --------- |
-| [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) | Front-end Developer | 30              | 40            | 420 hours   | $16800      |
-| [Priyanka Thambabathula](https://github.com/Priyanka1818)  | Back-end Developer  | 40             | 45            | 560 hours   | $25000      |
+| [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu) | Front-end Developer | 15              | 40            | 210 hours   | $8400      |
+| [Priyanka Thambabathula](https://github.com/Priyanka1818)  | Back-end Developer  | 20             | 40            | 280 hours   | $11200      |
 
 ## STACK
 
