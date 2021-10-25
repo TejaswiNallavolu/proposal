@@ -107,7 +107,8 @@
 **Front-end responsive design** 
 - Bootstrap
 
-- ### ___Mock-up screens of the [ClassReminder](https://github.com/TejaswiNallavolu/1A-ClassReminder) App using HTML, CSS, Bootstrap for presentation purpose.___
+ ### ___Mock-up screens of the [ClassReminder](https://github.com/TejaswiNallavolu/1A-ClassReminder) App using HTML, CSS, Bootstrap for presentation purpose.___
 
+### [Client Approval for the screen sketches](https://github.com/TejaswiNallavolu/proposal/blob/main/Client%20Approval%20for%20Screen%20Sketches.pdf)
 
 **[References](https://angular.io/guide/forms)**
