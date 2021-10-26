@@ -36,6 +36,25 @@
 ## ER-Diagram
 [Click here to view ER-Diagram](https://github.com/TejaswiNallavolu/proposal/blob/main/erdiagram.png)
 
+## Database Tables
+User
+- id
+- name
+- role
+- is_delete
+Class Details
+- id
+- user_id
+- classroom_id
+- class start_time
+- class end_time
+- is_delete
+Classroom Details
+- id
+- room_number
+- subject
+- is_delete
+
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
 ## GDP-1 
