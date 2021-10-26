@@ -42,6 +42,7 @@ User
 - name
 - role
 - is_delete
+
 Class Details
 - id
 - user_id
@@ -49,6 +50,7 @@ Class Details
 - class start_time
 - class end_time
 - is_delete
+
 Classroom Details
 - id
 - room_number
