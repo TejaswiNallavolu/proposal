@@ -57,6 +57,8 @@ Classroom Details
 - subject
 - is_delete
 
+## [Sample data](https://github.com/TejaswiNallavolu/proposal/blob/main/SampleData.xlsx)
+
 ## Schedule & sprints are set for the GDP semesters (about every 2-weeks = a sprint)
 
 ## GDP-1 
