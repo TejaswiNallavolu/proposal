@@ -121,8 +121,8 @@ Classroom Details
 **Backend free app host** 
 - Heroku 
 
-**Data host** Atlas MongoDB and SQL
-- Atlas MongoDB and SQL
+**Data host**
+- Heroku PostgreSQL
 
 **Front-end page plan** 
 - Single Page Application
